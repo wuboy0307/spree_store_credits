@@ -1,0 +1,21 @@
+---
+en:
+  add_store_credit: "增加點數"
+  current_store_credit: "目前點數"
+  editing_store_credit: "編輯點數"
+  enter_desired_amount_of_store_credit: "輸入數額"
+  listing_store_credits: "點數"
+  new_store_credit: "新點數"
+  manage_store_credits: "管理點數"
+  orders_with_store_credit: "使用點數訂單"
+  remaining_amount: "剩餘點數"
+  store_credit: "點數"
+  store_credit_maximum_amount: "使用點數超過訂單金額:%{amount}"
+  store_credits: "點數"
+  you_have_store_credit: "你有%{amount}點"
+  was_fully_used: "已使用完畢"
+  was_partially_used: "部分使用完畢"
+  cannot_edit_used: "已使用點數無法編輯"
+  errors:
+    messages:
+      store_credit_minimum_order_not_reach: "訂單金額%{amount}低於可使用點數訂單金額限制"
